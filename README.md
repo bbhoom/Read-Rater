@@ -181,3 +181,9 @@ For quick access during development:
 Distributed under the MIT License.
 
 **Happy Reading!** 📖✨
+## Output
+![image](https://github.com/user-attachments/assets/2fc6ad46-80c6-423e-8ede-dd5736cdbdbc)
+![image](https://github.com/user-attachments/assets/efff22b0-2042-49cf-8a89-f80f5f7db2f4)
+![image](https://github.com/user-attachments/assets/e3797234-8dc7-4d73-a46f-a30487499a7f)
+
+
