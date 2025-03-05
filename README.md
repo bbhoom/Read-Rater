@@ -175,9 +175,6 @@ For quick access during development:
 - [Supabase Guide](https://supabase.com/docs)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## 📫 Contact
-
-Project Maintainer: g12bhoomika@gmail.com
 
 ## 📄 License
 
