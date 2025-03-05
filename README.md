@@ -16,7 +16,7 @@ ReadRater is a comprehensive book review platform that allows users to discover,
 ## 📋 Project Structure
 
 ```
-readrater/
+project/
 │
 ├── src/
 │   ├── components/
